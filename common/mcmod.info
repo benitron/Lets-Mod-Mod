@@ -1,0 +1,16 @@
+[
+{
+"modid": "LetsMod",
+"name": "Let's Mod",
+"description": "LetsMod mod! Learn modding with Pahmar!",
+"version": "0.0.1",
+"url": "",
+"updateUrl": "",
+"authorList": [ "benitron", "pahamr" ],
+"credits": "All of you modders.",
+"logFile": "",
+"screenshots": [],
+"parent": "",
+"dependencies": []
+}
+]
